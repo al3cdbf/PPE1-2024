@@ -15,3 +15,4 @@ J'ai pu comprendre en surface comment marche les clés SSH comparé au HTTPS (on
  #Séance 3 
  ##exercices git
 Cette ligne doit rester aprè correction
+Ligne qui doit rester
